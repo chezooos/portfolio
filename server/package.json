@@ -1,0 +1,14 @@
+{
+  "name": "eongeum-guestbook-server",
+  "version": "1.0.0",
+  "description": "엉금위키 방명록 API 서버",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
